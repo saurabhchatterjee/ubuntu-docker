@@ -5,3 +5,7 @@ Just use the below command to create the image and start using Ubuntu with ping 
 Hope this helps.
 
 > `docker build . -t ubuntu_ping_nc:latest`
+
+Alternatively, you can also just run the build-image.sh
+
+> `bash build-image.sh`
